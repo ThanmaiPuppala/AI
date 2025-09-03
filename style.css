@@ -62,8 +62,7 @@ body{
     width: 70%;
     height: 50px;
     background-color:#f6f9fa;
-    outline: none;
-    border-radius: 50px;
+    outline:gray;
     border: none;
     padding: 20px;
     font-size:20px;
